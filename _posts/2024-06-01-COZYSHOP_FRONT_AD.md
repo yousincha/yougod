@@ -2,7 +2,7 @@
 layout: post
 title: 쇼핑몰 관리자 API
 categories: SHOP
-tags: [JavaScript]
+tags: [JavaScript, Next.js]
 ---
 
 ## 쇼핑몰 관리자 API

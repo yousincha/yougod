@@ -2,7 +2,7 @@
 layout: post
 title: 쇼핑몰 서버 API
 categories: SHOP
-tags: [JAVA]
+tags: [JAVA, Spring Boot, Spring Framework, RESTful]
 ---
 
 ## 쇼핑몰 서버 API
