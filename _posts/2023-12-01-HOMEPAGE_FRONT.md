@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 홈페이지 사용자 API
+title: 홈페이지 프론트 API
 categories: HOMEPAGE
 tags: [React, Vite, Tailwind CSS, Redux]
 ---
 
-## 홈페이지 사용자 API
+## 홈페이지 프론트 API
 
 React를 기반으로 하여 빠르고 효율적인 사용자 인터페이스를 구현하며, Vite를 사용하여 개발 환경을 최적화하고, Tailwind CSS로 스타일링을 간소화합니다. Redux를 활용하여 상태 관리를 효과적으로 처리합니다.
 
