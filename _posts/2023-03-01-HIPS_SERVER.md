@@ -1,13 +1,17 @@
 ---
 layout: post
 title: 온열질환 API
-categories: Heat_Illness
+categories: HIPS
 tags: [JavaScript, JSON, MySql, axios, socket.io]
 ---
 
 ## 온열질환 API
 
 이 프로젝트는 온열질환 예방 시스템(Heat Illness Prevention System)의 웹 애플리케이션 서버로, Express.js와 같은 Node.js 프레임워크를 기반으로 구축되었습니다. 다양한 라우트를 통해 관리자의 시스템 관리 및 사용자의 건강 데이터 처리 기능을 제공합니다.
+
+## 온열질환 데모
+
+![온열질환 미리보기](/assets/images/preview.gif)
 
 ## 소개
 
