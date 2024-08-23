@@ -11,7 +11,7 @@ tags: [JavaScript, JSON, MySql, axios, socket.io]
 
 ## 온열질환 데모
 
-![온열질환 미리보기](/assets/images/preview.gif)
+![온열질환 미리보기](/assets/images/hips/preview.gif)
 
 ## 소개
 
